@@ -1,0 +1,8 @@
+.divIcon{
+    margin-top: -20px;
+    
+}
+.slider-container {
+    max-width: 100%;
+    overflow: hidden; /* Hide horizontal overflow */
+  }

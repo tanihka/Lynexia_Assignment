@@ -1,0 +1,47 @@
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+/* 
+li, a{
+  font-size: 16px;
+  text-decoration: none;
+}
+
+header{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px 2%;
+  border: 1px solid red;
+}
+
+
+.logo{
+  cursor: pointer;
+
+}
+
+.nav-link{
+  list-style: none;
+}
+
+.nav-link li{
+display: inline-block;
+padding: 0px 10px;
+}
+
+.nav-login{
+  margin-right: 30px;
+} */
+
+.notice{
+
+  align-items: center;
+max-width: 1250px;
+width: 100%;
+padding: 20px 0;
+  display: flex;
+  justify-content: space-between;
+}
